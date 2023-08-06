@@ -1,7 +1,7 @@
 <h1>Sobre Mim</h1>
 <h4>Olá, sou Kauê Leivingson Romero, 18 anos, sou programador Front-End Pleno com experiência em React Native, React JS e Laravel. Uso Figma para fazer design de projetos, e apoio na decisão de ideias.</h4>
 <h2>Editores: </h2>
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)]([https://github.com/Kaue-Romero](https://code.visualstudio.com/)) [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)]([https://github.com/Kaue-Romero](https://code.visualstudio.com/))[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 <h4>Dois aplicativos usados no desenvolvimento. Visual Studio Code usado para fazer nossos melhores projetos e Figma para elaborarmos eles antes :sunglasses:</h4>
 <h2>Linguages e Frameworks:</h2>
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
