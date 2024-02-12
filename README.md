@@ -18,6 +18,7 @@
 <h4>As estatisticas estao baixas pois os projetos atuais são privados e aparecerão logo</h4>
 
 [![Kaue-Romero's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaue-Romero&show_icons=true&theme=radical&rank_icon=github)](https://github.com/Kaue-Romero)
-<img src="https://tryhackme-badges.s3.amazonaws.com/KaliUser.png" alt="TryHackMe">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-Romero&layout=donut&theme=neon)](https://github.com/Kaue-Romero)
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6568b0235145316d2599d188?variant=dark)](https://roadmap.sh)
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/KaliUser.png" alt="TryHackMe">
