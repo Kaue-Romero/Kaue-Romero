@@ -1,5 +1,5 @@
 <h1>Sobre Mim</h1>
-<h4>Olá, sou Kauê Leivingson Romero, 18 anos, sou programador FullStack Pleno com experiência em React Native, React JS e Laravel.</h4>
+<h4>Olá, sou Kauê Leivingson Romero, 19 anos, sou programador FullStack Pleno com experiência em React Native, React JS e Laravel.</h4>
 <h4>Utilizo Jira para organizar minhas tarefas e trabalhar em equipe com modelo de trabalho de Arquitetura Ágil e conexão com o GitHub para automatização das tasks com pushes nos repositórios.</h4>
 <h4>Possuo anos de experiência em programação para Web e desenvolvimento ServerSide, assim como já fiz projetos para desenvolvimento de jogos utilizando Unreal Engine 4.</h4>
 <h4>Tenho como hobby instalação e configuração de sistemas operacionais como Arch, Gentoo e Kali linux.</h4>
