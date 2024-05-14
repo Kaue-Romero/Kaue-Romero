@@ -64,9 +64,9 @@ p
     height: 500px;
     margin-bottom: 20px;
     margin-top: 20px;
-    border: 1px solid rgb(225 43 27);
+    border: 1px solid #52ca01;
     border-radius: 8px;
-    box-shadow: 1px 1px 8px 1px rgb(225 43 27);
+    box-shadow: 1px 1px 8px 1px #52ca01;
 }
 
 .section-resume-contact

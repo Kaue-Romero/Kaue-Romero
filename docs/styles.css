@@ -244,8 +244,8 @@ body:has(.section-resume-experiences-card.gghub:hover) .projects-view.gghub
 body:has(.section-resume-experiences-card.massape:hover) .projects-view.massape
 {
     box-shadow: 0 0 8px 1px #FFF043;
-        -webkit-box-shadow: 0 0 8px 1px #FFF043;
-        -moz-box-shadow: 0 0 8px 1px #FFF043;
+    -webkit-box-shadow: 0 0 8px 1px #FFF043;
+    -moz-box-shadow: 0 0 8px 1px #FFF043;
 }
 
 body:has(.section-resume-experiences-card.pocketlol:hover) .projects-view.pocketlol
